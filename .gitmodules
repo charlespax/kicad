@@ -1,0 +1,3 @@
+[submodule "kicad-packages3D"]
+	path = submodules/kicad-packages3D
+	url = https://gitlab.com/kicad/libraries/kicad-packages3D.git
