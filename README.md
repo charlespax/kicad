@@ -22,3 +22,9 @@ change date on drawing sheet
 git submodule add https://gitlab.com/kicad/libraries/kicad-packages3D.git
 
 add PATH ../submodules/kicad-packages3D
+
+JLCPCB plugin https://github.com/Bouni/kicad-jlcpcb-tools
+
+git submodule init
+git submodule update
+
